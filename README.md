@@ -7,7 +7,7 @@ Assignemet 1:
   
 
 Assignment 1 Sandbox:
-  python sandbox.py attack-1.py
+  python sandbox.py attack-1.py\n
   python sandbox.py attack-2.py
   python sandbox.py attack-3.py
   
