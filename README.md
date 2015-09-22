@@ -9,12 +9,11 @@ each sandbox contains summary.pdf file to explain the basic approach of sandbox 
 
   Assignment 1 Sandbox:
   
-  
     python sandbox.py attack-1.py
-    
-    
-    
     python sandbox.py attack-2.py
     python sandbox.py attack-3.py
     
+    
+  CS9163
+    python sandbox.py (then program will ask for input, enter 'attack-1.py')
 
